@@ -1,0 +1,2 @@
+# 01_ANALISIS_01_Caracterizacion_de_procesos_3288046
+Actividad de análisis en caracterización de procesos
